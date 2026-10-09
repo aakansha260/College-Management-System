@@ -1,0 +1,3 @@
+College Management System
+College: Fergusson College, Pune
+Purpose: Manage student and teacher information
